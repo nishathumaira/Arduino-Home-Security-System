@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779079575352",
+    "project_id": "ahss-99c86",
+    "storage_bucket": "ahss-99c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779079575352:android:c9c2810d2cebac0ca743cd",
+        "android_client_info": {
+          "package_name": "com.nish.ahs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779079575352-ah3dh0t9b0ph1445jcauui4g0r8h1d48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAii6vrr-XtXknonR5QhFzuliiP5WIMHmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779079575352-ah3dh0t9b0ph1445jcauui4g0r8h1d48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
